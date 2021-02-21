@@ -1,0 +1,15 @@
+POST /login.php HTTP/1.1
+Host: vkl-sql.darkarmy.xyz
+User-Agent: Mozilla/5.0 (Windows NT 6.1; rv:85.0) Gecko/20100101 Firefox/85.0
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 29
+Origin: http://vkl-sql.darkarmy.tree
+Connection: close
+Referer: http://vkl-sql.darkarmy.xyz/login.php
+Cookie: __cfduid=debb31644f4596dce3f419e6b0ac02ad01613818162; PHPSESSID=a478e72196b6d855400043c12e2adec2
+Upgrade-Insecure-Requests: 1
+
+username=admin&password=admin
